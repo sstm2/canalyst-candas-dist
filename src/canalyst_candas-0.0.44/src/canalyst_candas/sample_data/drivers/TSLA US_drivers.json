@@ -1,0 +1,2020 @@
+{
+    "count": 57,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "time_series": {
+                "slug": "model-sx-production",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_ModelSXproduction"
+                ],
+                "description": "Model S/X production, units",
+                "category": {
+                    "slug": "operating-stats-productionand-capacity-pr",
+                    "description": "Operating Stats - Production and Capacity (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-productionand-capacity-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-sx-production/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "13109",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-sx-production/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-3y-production",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Model3Yproduction"
+                ],
+                "description": "Model 3/Y production, units",
+                "category": {
+                    "slug": "operating-stats-productionand-capacity-pr",
+                    "description": "Operating Stats - Production and Capacity (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-productionand-capacity-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3y-production/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "292731",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3y-production/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-s-model-x-annual-pr",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_ModelSModelXannualproductioncapacityinFremont"
+                ],
+                "description": "Model S / Model X annual production capacity in Fremont, units",
+                "category": {
+                    "slug": "operating-stats-productionand-capacity-pr",
+                    "description": "Operating Stats - Production and Capacity (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-productionand-capacity-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-s-model-x-annual-pr/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "100000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-s-model-x-annual-pr/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-3-model-y-annual-pr",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Model3ModelYannualproductioncapacityinFremont"
+                ],
+                "description": "Model 3 / Model Y annual production capacity in Fremont, units",
+                "category": {
+                    "slug": "operating-stats-productionand-capacity-pr",
+                    "description": "Operating Stats - Production and Capacity (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-productionand-capacity-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3-model-y-annual-pr/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "500000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3-model-y-annual-pr/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-3-annual-production",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Model3annualproductioncapacityinShanghai"
+                ],
+                "description": "Model 3 / Model Y annual production capacity in Shanghai, units",
+                "category": {
+                    "slug": "operating-stats-productionand-capacity-pr",
+                    "description": "Operating Stats - Production and Capacity (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-productionand-capacity-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3-annual-production/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "450000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3-annual-production/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "total-model-s-and-model-x",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_totalmodelsandmodelxcarsdelivered"
+                ],
+                "description": "Model S and Model X Cars Delivered, units",
+                "category": {
+                    "slug": "operating-stats-automotive-deliveries-pr",
+                    "description": "Segmented Results - Automotive (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-deliveries-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/total-model-s-and-model-x/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "11750",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/total-model-s-and-model-x/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-3-cars-delivered",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_model3carsdelivered"
+                ],
+                "description": "Model 3 and Model Y Cars Delivered, units",
+                "category": {
+                    "slug": "operating-stats-automotive-deliveries-pr",
+                    "description": "Segmented Results - Automotive (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-deliveries-pr/"
+                },
+                "unit": {
+                    "description": "Number of units",
+                    "unit_type": "count",
+                    "symbol": "units",
+                    "self": "https://mds.canalyst.com/api/units/LmES1BJaWTeizs_fyGKXig/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3-cars-delivered/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "296850",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3-cars-delivered/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yoy-change-in-price-per-d",
+                "names": [
+                    "MO_OS_Unit_Price_Growth",
+                    "z_GMEG0H0133_MO_OS_YoYchangeinPriceperDelivery"
+                ],
+                "description": "Y/Y implied price per delivery growth, %",
+                "category": {
+                    "slug": "operating-stats-automotive-deliveries-pr",
+                    "description": "Segmented Results - Automotive (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-deliveries-pr/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yoy-change-in-price-per-d/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yoy-change-in-price-per-d/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "automotive-regulatory-cre-1",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Automotiveregulatorycreditsasofautomotivesales"
+                ],
+                "description": "Automotive regulatory credits as % of automotive sales, %",
+                "category": {
+                    "slug": "operating-stats-automotive-deliveries-pr",
+                    "description": "Segmented Results - Automotive (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-deliveries-pr/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/automotive-regulatory-cre-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "3",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/automotive-regulatory-cre-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-automot",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYimprovementinAutomotiveGrossProfitMargin"
+                ],
+                "description": "Y/Y improvement in Automotive Gross Profit Margin, bps",
+                "category": {
+                    "slug": "operating-stats-automotive-deliveries-pr",
+                    "description": "Segmented Results - Automotive (PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-deliveries-pr/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-automot/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "7.62",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-automot/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-sx-sold-under-lease",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_ModelSXsoldunderleaseaccounting"
+                ],
+                "description": "Model S/X sold under lease accounting, %",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-sx-sold-under-lease/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "16",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-sx-sold-under-lease/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "model-3y-sold-under-lease",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Model3Ysoldunderleaseaccounting"
+                ],
+                "description": "Model 3/Y sold under lease accounting, %",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3y-sold-under-lease/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "7.2",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/model-3y-sold-under-lease/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "cancellation-as-of-bop-op",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_CancellationasofBoPoperatingleasevehiclesannualized"
+                ],
+                "description": "Cancellation as % of BoP operating lease vehicles (annualized), %",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/cancellation-as-of-bop-op/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "8.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/cancellation-as-of-bop-op/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-lease-revenue-per-vehi",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYLeaserevenuepervehiclegrowth"
+                ],
+                "description": "Y/Y Lease revenue per vehicle growth, %",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-lease-revenue-per-vehi/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-10",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-lease-revenue-per-vehi/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-growth-of-gross-cost-p",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYgrowthofgrosscostperoperatingleasevehicle"
+                ],
+                "description": "Y/Y Gross cost per operating lease vehicle growth, %",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-growth-of-gross-cost-p/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-3",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-growth-of-gross-cost-p/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "change-in-accumulated-dep-1",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Changeinaccumulateddepreciationasofnetoperatingleasevehicles"
+                ],
+                "description": "Change in accumulated depreciation as % of gross operating lease vehicles cost, %",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/change-in-accumulated-dep-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "10",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/change-in-accumulated-dep-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-automot-1",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYimprovementinAutomotiveLeasingGrossProfitMargin"
+                ],
+                "description": "Y/Y improvement in Automotive Leasing Gross Profit Margin, bps",
+                "category": {
+                    "slug": "operating-stats-automotive-lease-mda",
+                    "description": "Segmented Results - Automotive Leasing (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-automotive-lease-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-automot-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-1.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-automot-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "services-and-other-revenu-2",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Servicesandotherrevenueasofautomotivesalesandautomotiveleasingrevenue"
+                ],
+                "description": "Services and other revenue as % of automotive sales and automotive leasing revenue, %",
+                "category": {
+                    "slug": "segmented-results-servicesand-other-fspr",
+                    "description": "Segmented Results - Services and Other (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/segmented-results-servicesand-other-fspr/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/services-and-other-revenu-2/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "7",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/services-and-other-revenu-2/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-service",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYimprovementinServicesandOtherGrossProfitMargin"
+                ],
+                "description": "Y/Y improvement in Services and Other Gross Profit Margin, bps",
+                "category": {
+                    "slug": "segmented-results-servicesand-other-fspr",
+                    "description": "Segmented Results - Services and Other (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/segmented-results-servicesand-other-fspr/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-service/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "18",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-service/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "energy-generation-and-sto-11",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Energygenerationandstoragesalesgrowth"
+                ],
+                "description": "Y/Y Energy Generation and Storage Sales growth, %",
+                "category": {
+                    "slug": "operating-stats-energy-generationand-storage-mda",
+                    "description": "Segmented Results - Energy Generation and Storage (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-energy-generationand-storage-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/energy-generation-and-sto-11/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "30",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/energy-generation-and-sto-11/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "change-in-leased-assets",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_changeinleasedassets"
+                ],
+                "description": "Change in leased assets, mm",
+                "category": {
+                    "slug": "operating-stats-energy-generationand-storage-mda",
+                    "description": "Segmented Results - Energy Generation and Storage (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-energy-generationand-storage-mda/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/change-in-leased-assets/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-40000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/change-in-leased-assets/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "revenue-recognized-on-ave",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_revenuerecognizedonaverageleasedassets"
+                ],
+                "description": "Energy revenue recognized on average leased assets, %",
+                "category": {
+                    "slug": "operating-stats-energy-generationand-storage-mda",
+                    "description": "Segmented Results - Energy Generation and Storage (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-energy-generationand-storage-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/revenue-recognized-on-ave/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "2.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/revenue-recognized-on-ave/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-energy",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYimprovementinEnergyGenerationandStorageGrossProfitMargin"
+                ],
+                "description": "Y/Y improvement in Energy Generation and Storage Gross Profit Margin, bps",
+                "category": {
+                    "slug": "operating-stats-energy-generationand-storage-mda",
+                    "description": "Segmented Results - Energy Generation and Storage (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-stats-energy-generationand-storage-mda/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-energy/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "6",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-energy/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-sga-mar",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYimprovementinSGAMargin"
+                ],
+                "description": "Y/Y improvement in SG&A Margin, bps",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-sga-mar/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-sga-mar/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-rd-marg",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_YYimprovementinRDMargin"
+                ],
+                "description": "Y/Y improvement in R&D Margin, bps",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-rd-marg/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-0.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/yy-improvement-in-rd-marg/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "one-time-operating-items-1",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_Onetimeoperatingitems"
+                ],
+                "description": "One-time operating items, mm",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/one-time-operating-items-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/one-time-operating-items-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "sbc-relating-to-cogs",
+                "names": [
+                    "z_GMEG0H0133_MO_AN_sbcrelatingtocogs"
+                ],
+                "description": "SBC relating to COGS",
+                "category": {
+                    "slug": "sbcda-breakdown-fspr",
+                    "description": "SBC & D&A Breakdown (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/sbcda-breakdown-fspr/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-relating-to-cogs/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "105000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-relating-to-cogs/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "sbc-relating-to-rd",
+                "names": [
+                    "z_GMEG0H0133_MO_AN_sbcrelatingtord"
+                ],
+                "description": "SBC relating to R&D",
+                "category": {
+                    "slug": "sbcda-breakdown-fspr",
+                    "description": "SBC & D&A Breakdown (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/sbcda-breakdown-fspr/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-relating-to-rd/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "10000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-relating-to-rd/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "sbc-relating-to-sga",
+                "names": [
+                    "z_GMEG0H0133_MO_AN_sbcrelatingtosga"
+                ],
+                "description": "SBC relating to SG&A",
+                "category": {
+                    "slug": "sbcda-breakdown-fspr",
+                    "description": "SBC & D&A Breakdown (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/sbcda-breakdown-fspr/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-relating-to-sga/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "200000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-relating-to-sga/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "sbc-related-to-restructur",
+                "names": [
+                    "z_GMEG0H0133_MO_AN_SBCrelatedtorestructuringandother"
+                ],
+                "description": "SBC related to restructuring and other",
+                "category": {
+                    "slug": "sbcda-breakdown-fspr",
+                    "description": "SBC & D&A Breakdown (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/sbcda-breakdown-fspr/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-related-to-restructur/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/sbc-related-to-restructur/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "amortization-of-solar-ene",
+                "names": [
+                    "z_GMEG0H0133_MO_AN_Amortizationofsolarenergysystems"
+                ],
+                "description": "Amortization of solar energy systems",
+                "category": {
+                    "slug": "sbcda-breakdown-fspr",
+                    "description": "SBC & D&A Breakdown (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/sbcda-breakdown-fspr/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/amortization-of-solar-ene/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "57000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/amortization-of-solar-ene/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "other-da-and-impairment-e",
+                "names": [
+                    "z_GMEG0H0133_MO_AN_OtherDAandimpairmentexpense"
+                ],
+                "description": "Other D&A and impairment expense",
+                "category": {
+                    "slug": "sbcda-breakdown-fspr",
+                    "description": "SBC & D&A Breakdown (FS/PR)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/sbcda-breakdown-fspr/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/other-da-and-impairment-e/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "150000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/other-da-and-impairment-e/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "other-items",
+                "names": [
+                    "MO_RIS_OI",
+                    "z_GMEG0H0133_MO_RIS_Otheritems"
+                ],
+                "description": "Other items",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/other-items/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "25000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/other-items/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "net-income-to-nci",
+                "names": [
+                    "MO_RIS_NCI",
+                    "z_GMEG0H0133_MO_RIS_NetIncometoNCI"
+                ],
+                "description": "Net Income to NCI",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/net-income-to-nci/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "50000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/net-income-to-nci/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "non-gaap-adjustments",
+                "names": [
+                    "MO_RIS_Adjustments_NONGAAP",
+                    "z_GMEG0H0133_MO_RIS_NonGAAPAdjustments"
+                ],
+                "description": "Non-GAAP Adjustments",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/non-gaap-adjustments/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-400000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/non-gaap-adjustments/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "current-tax-rate",
+                "names": [
+                    "MO_RIS_TaxRate_Current",
+                    "z_GMEG0H0133_MO_RIS_Currenttaxrate"
+                ],
+                "description": "Current tax rate",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/current-tax-rate/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "21",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/current-tax-rate/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "deferred-tax-rate",
+                "names": [
+                    "MO_RIS_TaxRate_Deferred",
+                    "z_GMEG0H0133_MO_RIS_Deferredtaxrate"
+                ],
+                "description": "Deferred tax rate",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/deferred-tax-rate/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/deferred-tax-rate/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "capex",
+                "names": [
+                    "MO_CFSum_Capex",
+                    "z_GMEG0H0133_MO_CFSum_Capex"
+                ],
+                "description": "Capex",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/capex/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-1200000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/capex/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "acquisitions",
+                "names": [
+                    "MO_CFSum_Acquisition",
+                    "z_GMEG0H0133_MO_CFSum_Acquisitions"
+                ],
+                "description": "Acquisitions",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/acquisitions/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/acquisitions/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "divestiture",
+                "names": [
+                    "MO_CFSum_Divestiture",
+                    "z_GMEG0H0133_MO_CFSum_Divestiture"
+                ],
+                "description": "Divestiture",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/divestiture/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/divestiture/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "dividend-per-share",
+                "names": [
+                    "MO_CFSum_DPS",
+                    "z_GMEG0H0133_MO_CFSum_DividendPerShare"
+                ],
+                "description": "Dividend Per Share",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD per Number of shares",
+                    "unit_type": "ratio",
+                    "symbol": "$/shares",
+                    "self": "https://mds.canalyst.com/api/units/Eskqfw66Vo-DZP5weM2kzQ/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/dividend-per-share/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/dividend-per-share/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "net-debt-issuance-repayme",
+                "names": [
+                    "MO_CFSum_NetDebtIssuance",
+                    "z_GMEG0H0133_MO_CFSum_NetDebtIssuanceRepayment"
+                ],
+                "description": "Net Debt Issuance (Repayment)",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/net-debt-issuance-repayme/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/net-debt-issuance-repayme/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "net-share-issuance-buybac",
+                "names": [
+                    "MO_CFSum_NetShares",
+                    "z_GMEG0H0133_MO_CFSum_NetShareIssuanceBuybacks"
+                ],
+                "description": "Net Share Issuance (Buybacks)",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/net-share-issuance-buybac/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/net-share-issuance-buybac/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "estimated-share-price-for",
+                "names": [
+                    "MO_CFSum_NetShares_Price",
+                    "z_GMEG0H0133_MO_CFSum_EstimatedSharePriceforIssuanceBuybacks"
+                ],
+                "description": "Estimated Share Price for Issuance/Buybacks, USD",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/estimated-share-price-for/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "1025",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/estimated-share-price-for/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "effective-interest-rate-o",
+                "names": [
+                    "MO_BSS_InterestRate_Debt",
+                    "z_GMEG0H0133_MO_BSS_EffectiveInterestRateonDebt"
+                ],
+                "description": "Effective Interest Rate on Debt",
+                "category": {
+                    "slug": "balance-sheet-summary",
+                    "description": "Balance Sheet Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/balance-sheet-summary/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/effective-interest-rate-o/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "3",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/effective-interest-rate-o/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "effective-interest-rate-o-1",
+                "names": [
+                    "MO_BSS_InterestRate_Cash",
+                    "z_GMEG0H0133_MO_BSS_EffectiveInterestRateonCash"
+                ],
+                "description": "Effective Interest Rate on Cash",
+                "category": {
+                    "slug": "balance-sheet-summary",
+                    "description": "Balance Sheet Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/balance-sheet-summary/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/effective-interest-rate-o-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0.2",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/effective-interest-rate-o-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "distributions-paid-to-non-1",
+                "names": [
+                    "z_GMEG0H0133_MO_CFS_distributionspaidtononcontrollinginterestsinsubsidiaries"
+                ],
+                "description": "Distributions paid to noncontrolling interests in subsidiaries",
+                "category": {
+                    "slug": "cash-flow-statement",
+                    "description": "Cash Flow Statement",
+                    "type": {
+                        "slug": "financials-as-reported-category-type",
+                        "name": "Financials As Reported"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/cash-flow-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/distributions-paid-to-non-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "-40000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/distributions-paid-to-non-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "accounts-receivable-yy-ch",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_AccountsreceivableYYChange"
+                ],
+                "description": "Accounts receivable, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/accounts-receivable-yy-ch/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/accounts-receivable-yy-ch/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "inventory-yy-change",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_InventoryYYChange"
+                ],
+                "description": "Inventory, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/inventory-yy-change/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/inventory-yy-change/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "prepaid-expenses-and-othe-3",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_PrepaidexpensesandothercurrentassetsYYChange"
+                ],
+                "description": "Prepaid expenses and other current assets, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/prepaid-expenses-and-othe-3/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/prepaid-expenses-and-othe-3/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "accounts-payable-yy-chang",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_AccountspayableYYChange"
+                ],
+                "description": "Accounts payable, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/accounts-payable-yy-chang/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/accounts-payable-yy-chang/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "accrued-liabilities-and-o-1",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_AccruedliabilitiesandotherYYChange"
+                ],
+                "description": "Accrued liabilities and other, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/accrued-liabilities-and-o-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/accrued-liabilities-and-o-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "deferred-revenue-yy-chang",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_DeferredrevenueYYChange"
+                ],
+                "description": "Deferred revenue, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/deferred-revenue-yy-chang/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/deferred-revenue-yy-chang/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "customer-deposits-yy-chan",
+                "names": [
+                    "z_GMEG0H0133_MO_OS_CustomerdepositsYYChange"
+                ],
+                "description": "Customer deposits, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/customer-deposits-yy-chan/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/customer-deposits-yy-chan/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "depreciation-as-percentag",
+                "names": [
+                    "MO_DAF_D_Percentage",
+                    "z_GMEG0H0133_MO_DAF_DepreciationaspercentageofPPEBoP"
+                ],
+                "description": "Depreciation as percentage of PP&E BoP, %",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/depreciation-as-percentag/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "14.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/depreciation-as-percentag/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "amortization-as-percentag",
+                "names": [
+                    "MO_DAF_A_Percentage",
+                    "z_GMEG0H0133_MO_DAF_AmortizationaspercentageofIntangiblesBoP"
+                ],
+                "description": "Amortization as percentage of Intangibles BoP, %",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/amortization-as-percentag/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "17.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/amortization-as-percentag/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "percentage-of-capex-alloc",
+                "names": [
+                    "MO_DAF_Intangibles_Capex_Percent",
+                    "z_GMEG0H0133_MO_DAF_Percentageofcapexallocatedtointangibleassets"
+                ],
+                "description": "Percentage of capex allocated to intangible assets, %",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/percentage-of-capex-alloc/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/GMEG0H0133/equity-models/Q3-2021.36/time-series/percentage-of-capex-alloc/forecast-data-points/Q4-2021/"
+        }
+    ]
+}

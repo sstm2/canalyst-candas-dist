@@ -1,0 +1,1285 @@
+{
+    "count": 36,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "time_series": {
+                "slug": "qq-united-states-canada-e",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQUnitedStatesCanadaEOPpaidstreamingmembershipsgrowth"
+                ],
+                "description": "Q/Q United States & Canada EOP paid streaming memberships growth, %",
+                "category": {
+                    "slug": "segmented-results-u-sand-canada-streaming-fs",
+                    "description": "Segmented Results - US and Canada Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-u-sand-canada-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-united-states-canada-e/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "1",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-united-states-canada-e/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-united-states-canada-s",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQUnitedStatesCanadastreamingARPUgrowth"
+                ],
+                "description": "Q/Q United States & Canada streaming ARPU growth, %",
+                "category": {
+                    "slug": "segmented-results-u-sand-canada-streaming-fs",
+                    "description": "Segmented Results - US and Canada Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-u-sand-canada-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-united-states-canada-s/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "1",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-united-states-canada-s/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-emea-eop-paid-streamin",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQEMEAEOPpaidstreamingmembershipsgrowth"
+                ],
+                "description": "Q/Q EMEA EOP paid streaming memberships growth, %",
+                "category": {
+                    "slug": "segmented-results-emea-streaming-fs",
+                    "description": "Segmented Results - EMEA Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-emea-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-emea-eop-paid-streamin/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "4",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-emea-eop-paid-streamin/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-emea-streaming-arpu-gr",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQEMEAstreamingARPUgrowth"
+                ],
+                "description": "Q/Q EMEA streaming ARPU growth, %",
+                "category": {
+                    "slug": "segmented-results-emea-streaming-fs",
+                    "description": "Segmented Results - EMEA Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-emea-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-emea-streaming-arpu-gr/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-emea-streaming-arpu-gr/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-latin-america-eop-paid",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQLatinAmericaEOPpaidstreamingmembershipsgrowth"
+                ],
+                "description": "Q/Q Latin America EOP paid streaming memberships growth, %",
+                "category": {
+                    "slug": "segmented-results-latin-america-streaming-fs",
+                    "description": "Segmented Results - Latin America Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-latin-america-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-latin-america-eop-paid/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "3",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-latin-america-eop-paid/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-latin-america-streamin",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQLatinAmericastreamingARPUgrowth"
+                ],
+                "description": "Q/Q Latin America streaming ARPU growth, %",
+                "category": {
+                    "slug": "segmented-results-latin-america-streaming-fs",
+                    "description": "Segmented Results - Latin America Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-latin-america-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-latin-america-streamin/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "1",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-latin-america-streamin/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-asia-pacific-eop-paid",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQAsiaPacificEOPpaidstreamingmembershipsgrowth"
+                ],
+                "description": "Q/Q Asia Pacific EOP paid streaming memberships growth, %",
+                "category": {
+                    "slug": "segmented-results-asia-pacific-streaming-fs",
+                    "description": "Segmented Results - Asia Pacific Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-asia-pacific-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-asia-pacific-eop-paid/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "11",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-asia-pacific-eop-paid/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-asia-pacific-streaming",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQAsiaPacificstreamingARPUgrowth"
+                ],
+                "description": "Q/Q Asia Pacific streaming ARPU growth, %",
+                "category": {
+                    "slug": "segmented-results-asia-pacific-streaming-fs",
+                    "description": "Segmented Results - Asia Pacific Streaming (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-asia-pacific-streaming-fs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-asia-pacific-streaming/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-1",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-asia-pacific-streaming/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "qq-united-states-dvd-reve-1",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_QQUnitedStatesDVDrevenuegrowth_1"
+                ],
+                "description": "Q/Q United States DVD revenue growth, %",
+                "category": {
+                    "slug": "segmented-results-united-states-dvdfs",
+                    "description": "Segmented Results - United States DVD (FS)",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/segmented-results-united-states-dvdfs/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-united-states-dvd-reve-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/qq-united-states-dvd-reve-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-other-c",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_YYimprovementinOtherCOGSMargin"
+                ],
+                "description": "Y/Y improvement in Other COGS Margin, bps",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-other-c/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-2.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-other-c/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-rd-marg",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_YYimprovementinRDMargin"
+                ],
+                "description": "Y/Y improvement in R&D Margin, bps",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-rd-marg/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-2",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-rd-marg/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-sm-marg",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_YYimprovementinSMMargin"
+                ],
+                "description": "Y/Y improvement in S&M Margin, bps",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-sm-marg/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-1.8",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-sm-marg/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "yy-improvement-in-ga-marg",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_YYimprovementinGAMargin"
+                ],
+                "description": "Y/Y improvement in G&A Margin, bps",
+                "category": {
+                    "slug": "operating-expense-forecasting",
+                    "description": "Operating Expense Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/operating-expense-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-ga-marg/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-1.2",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/yy-improvement-in-ga-marg/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "other-items",
+                "names": [
+                    "MO_RIS_OI",
+                    "z_NVC8NN0168_MO_RIS_Otheritems"
+                ],
+                "description": "Other items",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/other-items/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/other-items/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "current-tax-rate",
+                "names": [
+                    "MO_RIS_TaxRate_Current",
+                    "z_NVC8NN0168_MO_RIS_Currenttaxrate"
+                ],
+                "description": "Current tax rate",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/current-tax-rate/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "9",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/current-tax-rate/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "deferred-tax-rate",
+                "names": [
+                    "MO_RIS_TaxRate_Deferred",
+                    "z_NVC8NN0168_MO_RIS_Deferredtaxrate"
+                ],
+                "description": "Deferred tax rate",
+                "category": {
+                    "slug": "revised-income-statement",
+                    "description": "Revised Income Statement",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/revised-income-statement/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/deferred-tax-rate/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-7",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/deferred-tax-rate/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "capex",
+                "names": [
+                    "MO_CFSum_Capex",
+                    "z_NVC8NN0168_MO_CFSum_Capex"
+                ],
+                "description": "Capex",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/capex/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "-100000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/capex/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "acquisitions",
+                "names": [
+                    "MO_CFSum_Acquisition",
+                    "z_NVC8NN0168_MO_CFSum_Acquisitions"
+                ],
+                "description": "Acquisitions",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/acquisitions/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/acquisitions/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "divestiture",
+                "names": [
+                    "MO_CFSum_Divestiture",
+                    "z_NVC8NN0168_MO_CFSum_Divestiture"
+                ],
+                "description": "Divestiture",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/divestiture/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/divestiture/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "dividend-per-share",
+                "names": [
+                    "MO_CFSum_DPS",
+                    "z_NVC8NN0168_MO_CFSum_DividendPerShare"
+                ],
+                "description": "Dividend Per Share",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD per Number of shares",
+                    "unit_type": "ratio",
+                    "symbol": "$/shares",
+                    "self": "https://mds.canalyst.com/api/units/Eskqfw66Vo-DZP5weM2kzQ/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/dividend-per-share/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/dividend-per-share/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "net-debt-issuance-repayme",
+                "names": [
+                    "MO_CFSum_NetDebtIssuance",
+                    "z_NVC8NN0168_MO_CFSum_NetDebtIssuanceRepayment"
+                ],
+                "description": "Net Debt Issuance (Repayment)",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/net-debt-issuance-repayme/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/net-debt-issuance-repayme/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "net-share-issuance-buybac",
+                "names": [
+                    "MO_CFSum_NetShares",
+                    "z_NVC8NN0168_MO_CFSum_NetShareIssuanceBuybacks"
+                ],
+                "description": "Net Share Issuance (Buybacks)",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/net-share-issuance-buybac/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/net-share-issuance-buybac/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "estimated-share-price-for",
+                "names": [
+                    "MO_CFSum_NetShares_Price",
+                    "z_NVC8NN0168_MO_CFSum_EstimatedSharePriceforIssuanceBuybacks"
+                ],
+                "description": "Estimated Share Price for Issuance/Buybacks, USD",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/estimated-share-price-for/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "653",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/estimated-share-price-for/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "sbc-expense-as-of-revenue",
+                "names": [
+                    "MO_CFSum_SBC_Margin",
+                    "z_NVC8NN0168_MO_CFSum_SBCexpenseasofrevenue"
+                ],
+                "description": "SBC expense as % of revenue, %",
+                "category": {
+                    "slug": "cash-flow-summary",
+                    "description": "Cash Flow Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-summary/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/sbc-expense-as-of-revenue/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "1.3",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/sbc-expense-as-of-revenue/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "effective-interest-rate-o",
+                "names": [
+                    "MO_BSS_InterestRate_Debt",
+                    "z_NVC8NN0168_MO_BSS_EffectiveInterestRateonDebt"
+                ],
+                "description": "Effective Interest Rate on Debt",
+                "category": {
+                    "slug": "balance-sheet-summary",
+                    "description": "Balance Sheet Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/balance-sheet-summary/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/effective-interest-rate-o/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "4.9",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/effective-interest-rate-o/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "effective-interest-rate-o-1",
+                "names": [
+                    "MO_BSS_InterestRate_Cash",
+                    "z_NVC8NN0168_MO_BSS_EffectiveInterestRateonCash"
+                ],
+                "description": "Effective Interest Rate on Cash",
+                "category": {
+                    "slug": "balance-sheet-summary",
+                    "description": "Balance Sheet Summary",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/balance-sheet-summary/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/effective-interest-rate-o-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "1.1",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/effective-interest-rate-o-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "change-in-streaming-conte-1",
+                "names": [
+                    "z_NVC8NN0168_MO_CFS_changeinstreamingcontentliabilities"
+                ],
+                "description": "Change in streaming content liabilities",
+                "category": {
+                    "slug": "cash-flow-statement",
+                    "description": "Cash Flow Statement",
+                    "type": {
+                        "slug": "financials-as-reported-category-type",
+                        "name": "Financials As Reported"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/change-in-streaming-conte-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "300000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/change-in-streaming-conte-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "fx-1",
+                "names": [
+                    "MO_CFS_FX",
+                    "z_NVC8NN0168_MO_CFS_FX"
+                ],
+                "description": "FX",
+                "category": {
+                    "slug": "cash-flow-statement",
+                    "description": "Cash Flow Statement",
+                    "type": {
+                        "slug": "financials-as-reported-category-type",
+                        "name": "Financials As Reported"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/cash-flow-statement/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/fx-1/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/fx-1/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "other-current-assets-yy-c",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_OthercurrentassetsYYChange"
+                ],
+                "description": "Other current assets, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/other-current-assets-yy-c/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/other-current-assets-yy-c/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "accounts-payable-yy-chang",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_AccountspayableYYChange"
+                ],
+                "description": "Accounts payable, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/accounts-payable-yy-chang/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/accounts-payable-yy-chang/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "accrued-expenses-yy-chang",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_AccruedexpensesYYChange"
+                ],
+                "description": "Accrued expenses, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/accrued-expenses-yy-chang/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/accrued-expenses-yy-chang/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "deferred-revenue-yy-chang",
+                "names": [
+                    "z_NVC8NN0168_MO_OS_DeferredrevenueYYChange"
+                ],
+                "description": "Deferred revenue, Y/Y Change, %",
+                "category": {
+                    "slug": "working-capital-forecasting",
+                    "description": "Working Capital Forecasting",
+                    "type": {
+                        "slug": "financial-analysis-category-type",
+                        "name": "Financial Analysis"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/working-capital-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/deferred-revenue-yy-chang/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/deferred-revenue-yy-chang/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "capex-of-intangibles",
+                "names": [
+                    "MO_DAF_Intangibles_Capex",
+                    "z_NVC8NN0168_MO_DAF_Capexofintangibles"
+                ],
+                "description": "Capex of intangibles, mm",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "USD",
+                    "unit_type": "currency",
+                    "symbol": "$",
+                    "self": "https://mds.canalyst.com/api/units/0w4VjmAaWr-j2aZcniqNQA/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/capex-of-intangibles/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "4000000000",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/capex-of-intangibles/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "depreciation-as-percentag",
+                "names": [
+                    "MO_DAF_D_Percentage",
+                    "z_NVC8NN0168_MO_DAF_DepreciationaspercentageofPPEBoP"
+                ],
+                "description": "Depreciation as percentage of PP&E BoP, %",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/depreciation-as-percentag/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "25",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/depreciation-as-percentag/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "amortization-as-percentag",
+                "names": [
+                    "MO_DAF_A_Percentage",
+                    "z_NVC8NN0168_MO_DAF_AmortizationaspercentageofIntangiblesBoP"
+                ],
+                "description": "Amortization as percentage of Intangibles BoP, %",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/amortization-as-percentag/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "47.5",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/amortization-as-percentag/forecast-data-points/Q4-2021/"
+        },
+        {
+            "time_series": {
+                "slug": "percentage-of-capex-alloc",
+                "names": [
+                    "MO_DAF_Intangibles_Capex_Percent",
+                    "z_NVC8NN0168_MO_DAF_Percentageofcapexallocatedtointangibleassets"
+                ],
+                "description": "Percentage of capex allocated to intangible assets, %",
+                "category": {
+                    "slug": "da-forecasting",
+                    "description": "D&A Forecasting",
+                    "type": {
+                        "slug": "other-category-type",
+                        "name": "Other"
+                    },
+                    "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series-categories/da-forecasting/"
+                },
+                "unit": {
+                    "description": "Percentage",
+                    "unit_type": "percentage",
+                    "symbol": "%",
+                    "self": "https://mds.canalyst.com/api/units/MlZRW9H3UqKVQL7LGtNn0A/"
+                },
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/percentage-of-capex-alloc/"
+            },
+            "period": {
+                "name": "Q4-2021",
+                "period_duration_type": "fiscal_quarter",
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-31",
+                "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/forecast-periods/Q4-2021/"
+            },
+            "value": "0",
+            "is_driver": true,
+            "self": "https://mds.canalyst.com/api/equity-model-series/NVC8NN0168/equity-models/Q3-2021.28/time-series/percentage-of-capex-alloc/forecast-data-points/Q4-2021/"
+        }
+    ]
+}
