@@ -15,7 +15,7 @@ __version__ = constants.__version__
 setuptools.setup(
     name="canalyst_candas",
     version=__version__,
-    author="Canalyst",
+    author="Canalyst+S2",
     author_email="support+api@canalyst.com",
     description="The official Canalyst Software Development Kit (SDK) for our public API",
     license="Apache-2.0",
@@ -55,6 +55,6 @@ setuptools.setup(
         "matplotlib>=3.4.3",
         "statsmodels>=0.12.2",
         "yahoo-fin>=0.8.9.1",
-        "pyarrow==7.0.0",
+        "pyarrow>=14.0.0",
     ],
 )

@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: canalyst_candas
-Version: 0.0.45
+Version: 0.0.45+s2
 Summary: The official Canalyst Software Development Kit (SDK) for our public API
-Author: Canalyst
+Author: Canalyst+S2
 Author-email: support+api@canalyst.com
 License: Apache-2.0
 Classifier: Programming Language :: Python :: 3
@@ -35,7 +35,7 @@ Requires-Dist: urllib3>=1.25.11
 Requires-Dist: matplotlib>=3.4.3
 Requires-Dist: statsmodels>=0.12.2
 Requires-Dist: yahoo-fin>=0.8.9.1
-Requires-Dist: pyarrow==7.0.0
+Requires-Dist: pyarrow>=14.0.0
 
 # Canalyst Data Science Library
 
