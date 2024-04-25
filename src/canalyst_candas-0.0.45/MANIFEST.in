@@ -1,0 +1,4 @@
+graft src/canalyst_candas/fonts
+graft src/canalyst_candas/images
+graft src/canalyst_candas/sample_data/drivers
+graft src/canalyst_candas/sample_data/models
